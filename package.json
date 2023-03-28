@@ -1,0 +1,15 @@
+{
+  "name": "new-folder-scaffold",
+  "version": "1.0.0",
+  "description": "Makes new folders using a prompt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scaffold": "node index.js"
+  },
+  "author": "Niall O'Callaghan",
+  "license": "UNLICENCED",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
